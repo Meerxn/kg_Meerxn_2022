@@ -1,4 +1,4 @@
-# NumToString (Kargo Coding assessment)
+# NumToString (Kargo Coding Assessment)
 
 This javascript program is responsible for converting integer arguments into words with respect to each digit given. The script file for this program can be found in main.js
 
