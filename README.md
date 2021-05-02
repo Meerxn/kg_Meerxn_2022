@@ -1,6 +1,6 @@
 # NumToString
 
-This javascript program is responsible for converting integer arguments into words with respect to each digit given
+This javascript program is responsible for converting integer arguments into words with respect to each digit given. The script file for this program can be found in main.js
 
 ## Example Runs
 
@@ -10,8 +10,7 @@ Given an array: [10, 300, 5], the program will output “OneZero,ThreeZeroZero,F
 
 Note: The program will output error message for invalid enteries such as negative values or Non integer arguments such as Strings and special characters.
 
-Here is how the example runs look like: 
-![](2021-05-02-06-37-19.png)
+![Example Run:](2021-05-02-06-43-32.png)
 
 ## Author
 
