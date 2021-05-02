@@ -17,7 +17,7 @@
             console.log("Error in input. Please enter valid postive numbers");
             return;
         }
-        let sNumber = args[i].toString();
+        let sNumber = argV[i].toString();
         for (let j = 0; j < sNumber.length; j++) {
             currString += numbers[sNumber.charAt(j)];
         }
